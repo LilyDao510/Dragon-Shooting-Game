@@ -3,6 +3,7 @@ Hi, Welcome to my Dragon Shooter Game. This game is a simple yet entertaining ga
 
 
 ----How to play----
+
 0. Run "main.py" to start the game
 1. Try to shoot down all the black DRAGON
 2. Don't let they touch you neither the bottom of the screen 
