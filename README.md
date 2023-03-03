@@ -1,5 +1,7 @@
 # Dragon-Shooting-Game
 Hi, Welcome to my Dragon Shooter Game. This game is a simple yet entertaining game built entirely in Python programming language. It is designed to be easy to play and enjoyable for all ages.
+
+
 ----How to play----
 0. Run "main.py" to start the game
 1. Try to shoot down all the black DRAGON
